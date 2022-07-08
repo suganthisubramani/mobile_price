@@ -1,1 +1,13 @@
-jdhfghilw
+history
+   49  ssh-keygen
+   50  ls
+   51  /c/Users/suganthi_subramani/.ssh/id_rsa.
+copy and paste it in ssh key
+   
+   
+   59  git remote add origin <ssh link>
+   60  git remote -v
+   61  git status
+  
+   63  git push origin master
+   64  history
